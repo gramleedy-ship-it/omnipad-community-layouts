@@ -1,7 +1,7 @@
 {
  "version": 1,
- "repo": "omnipad/community-layouts",
- "generated": "2026-10-02T11:48:09Z",
+ "repo": "gramleedy-ship-it/omnipad-community-layouts",
+ "generated": "2026-10-02T18:24:25Z",
  "layouts": [
   {
    "id": "ksp_x64.rocket-pilot",
@@ -15,7 +15,7 @@
    "author": "",
    "description": "Left stick pitch / yaw, bumpers roll, triggers throttle, A stages. SAS and RCS on the D-pad.",
    "file": "layouts/ksp_x64/rocket-pilot.omnipad-layout",
-   "download_url": "https://github.com/omnipad/community-layouts/releases/download/layouts/ksp_x64.rocket-pilot.omnipad-layout",
+   "download_url": "https://github.com/gramleedy-ship-it/omnipad-community-layouts/releases/download/layouts/ksp_x64.rocket-pilot.omnipad-layout",
    "sha256": "657ea54069bcc2c51afbf6b7c7f23386df295b3b97e240cdaafcfa2c39d52b21",
    "size": 418,
    "downloads": 0,
@@ -53,7 +53,7 @@
    "author": "",
    "description": "Pointer on the left stick, camera on the right; X pauses, the D-pad sets the speed, Touchpad opens the architect menu.",
    "file": "layouts/rimworldwin64/colony-manager.omnipad-layout",
-   "download_url": "https://github.com/omnipad/community-layouts/releases/download/layouts/rimworldwin64.colony-manager.omnipad-layout",
+   "download_url": "https://github.com/gramleedy-ship-it/omnipad-community-layouts/releases/download/layouts/rimworldwin64.colony-manager.omnipad-layout",
    "sha256": "8e99259e1370d252238fce0ec615033872b65b964ddb4907e6e39db257e6dfa2",
    "size": 554,
    "downloads": 0,
