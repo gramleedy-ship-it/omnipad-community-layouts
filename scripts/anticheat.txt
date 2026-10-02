@@ -1,0 +1,39 @@
+# Games under an anti-cheat: Omnipad never sends keyboard / mouse there, so no community layout may target them.
+# Copied from Omnipad's src/Omnipad/AntiCheat/AntiCheatGames.cs - refresh it when that list changes.
+arma3_x64.exe
+bf2042.exe
+bf6.exe
+blackopscoldwar.exe
+cod.exe
+cs2.exe
+csgo.exe
+dayz_x64.exe
+deadbydaylight-win64-shipping.exe
+deadlock.exe
+destiny2.exe
+discovery.exe
+eldenring.exe
+escapefromtarkov.exe
+fallguys_client_game.exe
+fc25.exe
+fc26.exe
+fortniteclient-win64-shipping.exe
+gta5.exe
+gta5_enhanced.exe
+haloinfinite.exe
+huntgame.exe
+league of legends.exe
+marvel-win64-shipping.exe
+modernwarfare.exe
+overwatch.exe
+r5apex.exe
+r5apex_dx12.exe
+rainbowsix.exe
+rainbowsix_be.exe
+rainbowsix_vulkan.exe
+rustclient.exe
+sotgame.exe
+thefinals.exe
+tslgame.exe
+valorant.exe
+valorant-win64-shipping.exe

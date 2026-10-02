@@ -1,0 +1,28 @@
+name: Report a layout
+description: Something wrong, misleading or harmful in a community layout
+title: "Report: "
+labels: [report]
+body:
+  - type: input
+    id: layout
+    attributes:
+      label: Layout id
+      description: Omnipad fills this in when you press Report.
+    validations:
+      required: true
+  - type: dropdown
+    id: why
+    attributes:
+      label: What's wrong?
+      options:
+        - It doesn't work / wrong game
+        - It presses keys outside the game or does something harmful
+        - Offensive title or description
+        - Copied from someone without credit
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details

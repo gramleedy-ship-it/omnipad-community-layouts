@@ -1,0 +1,23 @@
+; @title: Rocket pilot
+; @game: Kerbal Space Program
+; @family: any
+; @description: Left stick pitch / yaw, bumpers roll, triggers throttle, A stages. SAS and RCS on the D-pad.
+; @steam-app-id: 220200
+[Profile:ksp_x64.exe]
+Layout=classic
+LeftStick=wasd
+RightStick=arrows
+LB=key:Q
+RB=key:E
+RT=key:Shift
+LT=key:Ctrl
+A=key:Space
+B=key:X
+Y=key:Z
+X=key:T
+Up=key:G
+Down=key:B
+Left=key:R
+Right=key:U
+Back=key:M
+Start=key:Esc

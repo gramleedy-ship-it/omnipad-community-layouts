@@ -1,0 +1,25 @@
+; @title: Colony manager
+; @game: RimWorld
+; @family: playstation
+; @description: Pointer on the left stick, camera on the right; X pauses, the D-pad sets the speed, Touchpad opens the architect menu.
+; @steam-app-id: 294100
+[Profile:rimworldwin64.exe]
+Layout=strategy
+LeftStick=mouse
+RightStick=arrows
+MouseSpeed=0.8
+A=mouse:left
+B=mouse:right
+X=key:Space
+Y=key:Enter
+Up=key:1
+Right=key:2
+Down=key:3
+Left=key:4
+Touchpad=key:F1
+Back=key:Tab
+Start=key:Esc
+Radial1=key:F1 | Architect
+Radial2=key:F2 | Work
+Radial3=key:F3 | Schedule
+Radial4=key:F4 | Assign

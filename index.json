@@ -1,0 +1,80 @@
+{
+ "version": 1,
+ "repo": "omnipad/community-layouts",
+ "generated": "2026-10-02T11:48:09Z",
+ "layouts": [
+  {
+   "id": "ksp_x64.rocket-pilot",
+   "title": "Rocket pilot",
+   "game": "Kerbal Space Program",
+   "exe": [
+    "ksp_x64.exe"
+   ],
+   "steam_app_id": 220200,
+   "family": "any",
+   "author": "",
+   "description": "Left stick pitch / yaw, bumpers roll, triggers throttle, A stages. SAS and RCS on the D-pad.",
+   "file": "layouts/ksp_x64/rocket-pilot.omnipad-layout",
+   "download_url": "https://github.com/omnipad/community-layouts/releases/download/layouts/ksp_x64.rocket-pilot.omnipad-layout",
+   "sha256": "657ea54069bcc2c51afbf6b7c7f23386df295b3b97e240cdaafcfa2c39d52b21",
+   "size": 418,
+   "downloads": 0,
+   "up": 0,
+   "down": 0,
+   "rating": 0,
+   "rate_url": "",
+   "updated": "2026-10-02T11:48:09Z",
+   "preview": {
+    "LB": "key:Q",
+    "RB": "key:E",
+    "RT": "key:Shift",
+    "LT": "key:Ctrl",
+    "A": "key:Space",
+    "B": "key:X",
+    "Y": "key:Z",
+    "X": "key:T",
+    "Up": "key:G",
+    "Down": "key:B",
+    "Left": "key:R",
+    "Right": "key:U",
+    "Back": "key:M",
+    "Start": "key:Esc"
+   }
+  },
+  {
+   "id": "rimworldwin64.colony-manager",
+   "title": "Colony manager",
+   "game": "RimWorld",
+   "exe": [
+    "rimworldwin64.exe"
+   ],
+   "steam_app_id": 294100,
+   "family": "playstation",
+   "author": "",
+   "description": "Pointer on the left stick, camera on the right; X pauses, the D-pad sets the speed, Touchpad opens the architect menu.",
+   "file": "layouts/rimworldwin64/colony-manager.omnipad-layout",
+   "download_url": "https://github.com/omnipad/community-layouts/releases/download/layouts/rimworldwin64.colony-manager.omnipad-layout",
+   "sha256": "8e99259e1370d252238fce0ec615033872b65b964ddb4907e6e39db257e6dfa2",
+   "size": 554,
+   "downloads": 0,
+   "up": 0,
+   "down": 0,
+   "rating": 0,
+   "rate_url": "",
+   "updated": "2026-10-02T11:48:09Z",
+   "preview": {
+    "A": "mouse:left",
+    "B": "mouse:right",
+    "X": "key:Space",
+    "Y": "key:Enter",
+    "Up": "key:1",
+    "Right": "key:2",
+    "Down": "key:3",
+    "Left": "key:4",
+    "Touchpad": "key:F1",
+    "Back": "key:Tab",
+    "Start": "key:Esc"
+   }
+  }
+ ]
+}
